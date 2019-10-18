@@ -1,7 +1,7 @@
 # Python-plugins
 Some python-generated code to scrape data from different websites
 
-This repository contains various python codes to extract data from websites.
+This repository contains various python codes to extract/scrape data from websites.
 
 
 ### 1. CF Extractor: ([extractor.py](CF%20Extractor/extractor.py))
